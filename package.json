@@ -1,0 +1,30 @@
+{
+  "name": "vuetify-clipboard-input",
+  "version": "1.0.0",
+  "description": "Vuetify text field and text area with 'copy to clipboard' icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjohnson1994/vuetify-clipboard-input.git"
+  },
+  "keywords": [
+    "vuetify",
+    "clipboard",
+    "vue",
+    "copy",
+    "textfield",
+    "textarea"
+  ],
+  "dependencies": {
+    "vuetify": "^1.0.11"
+  },
+  "author": "James Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjohnson1994/vuetify-clipboard-input/issues"
+  },
+  "homepage": "https://github.com/jjohnson1994/vuetify-clipboard-input#readme"
+}
