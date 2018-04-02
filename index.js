@@ -1,4 +1,4 @@
-import VClipboardTextField from './components/VClipboardTextField.vue';
+import VClipboardTextField from './src/components/VClipboardTextField.vue';
 
 const VuetifyClipboard = {
   install(Vue, options) {

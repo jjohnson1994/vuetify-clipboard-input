@@ -1,6 +1,6 @@
 {
   "name": "vuetify-clipboard-input",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "Vuetify text field and text area with 'copy to clipboard' icons",
   "main": "index.js",
   "scripts": {
