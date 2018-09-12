@@ -4,7 +4,7 @@
     :label='label'
     :textarea='textarea'
     append-icon='content_copy'
-    :append-icon-cb='copy'
+    @click:append='copy'
     v-model='value'
     :attrs='$attrs'
   />
